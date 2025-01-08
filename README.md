@@ -10,7 +10,7 @@ While the example server uses Linux-specific threading (`pthreads`), the library
 
 The library was tested on internal Linux servers and is ideal for anyone building efficient, scalable socket-based applications on Windows and Linux platforms.
 
-# Build & Run Instructions
+# Build & Run Instructions (example program)
 
 The provided Makefile can be used to build the Linux example server as well as either a linux or windows example client program. Alternatively, prebuilt binaries are provided in the prebuilt directory. 
 
